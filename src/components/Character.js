@@ -37,6 +37,7 @@ h2 {
 
 p {
     background: darkgrey;
+    color: white;
 }
 
 `
